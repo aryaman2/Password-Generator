@@ -9,7 +9,7 @@ This is a simple password generator that generates a password of a given length.
 2. Then clone the repository using the following command:
 
 ```
-git clone https://github.com/MSCKIIT/Password-Generator
+git clone https://github.com/aryaman2/Password-Generator
 ```
 
 3. Open the folder in vs code.
